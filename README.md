@@ -1,5 +1,4 @@
 How to run the Maid Hiring Management System (mhms) Project
-
 1. Select Folder MHMS
 
 2. Inside MHMS Folder and copy mhmsdb Folder
