@@ -10,7 +10,7 @@ How to run the Maid Hiring Management System (mhms) Project
 5. Create a database with the name mhmsdb
 
 6. Import mhmsdb.sql file
-7. Run the script http://localhost/mhms
+7. Run the script http://localhost/mhms/mhmsdb/
 
 Credential for Admin panel :
 
