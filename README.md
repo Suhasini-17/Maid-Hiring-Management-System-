@@ -1,7 +1,7 @@
 How to run the Maid Hiring Management System (mhms) Project
-1. Select Folder MHMS
+1. Select Folder Maid-Hiring-Management-System
 
-2. Inside MHMS Folder and copy mhmsdb Folder
+2. Inside Folder ,copy mhmsdb Folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
